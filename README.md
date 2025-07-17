@@ -1,4 +1,5 @@
 #preservation_of_evidence_using_blockchain_technology
+
 EvidenceChain
 Preserving Digital Evidence with Blockchain Technology
 EvidenceChain is a blockchain-based system designed to securely preserve digital evidence for forensic investigations. Leveraging Ethereum smart contracts, IPFS for decentralized storage, a React-based frontend, and MetaMask for secure transactions, EvidenceChain ensures transparency, immutability, and usability in managing digital evidence. Deployed on the Sepolia testnet using Hardhat, it achieves a 98.5% transaction success rate and a 4.7/5 usability rating, making it a robust solution for forensic professionals.
