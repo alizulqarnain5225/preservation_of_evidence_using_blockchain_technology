@@ -149,10 +149,14 @@ Response Time
 Contributing
 We welcome contributions from the community! To contribute:
 
+
 Fork the repository.
 Create a new branch (git checkout -b feature/your-feature).
+
 Commit your changes (git commit -m 'Add your feature').
+
 Push to the branch (git push origin feature/your-feature).
+
 Open a Pull Request.
 
 Please follow the Code of Conduct and ensure all tests pass before submitting.
